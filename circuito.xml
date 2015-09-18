@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Archivo><CIRCUITO><DESCRIPCION>Esto es descipcion<DESCRIPCION>Esto es descipcion</DESCRIPCION><ID>3</ID><ENTRADAS>6</ENTRADAS><SALIDAS>3</SALIDAS><COMPUERTA>ID: Switch1 Tipo: On</COMPUERTA><COMPUERTA>ID: compuerta7 Tipo: And</COMPUERTA><COMPUERTA>ID: compuerta8 Tipo: Nand</COMPUERTA></DESCRIPCION></CIRCUITO></Archivo>
